@@ -15,10 +15,6 @@ A **medieval tavern-themed management application**. Traveler's Rest brings food
 | **Transaction history** | Recent transactions, ordering and filtering by order ID, amount, date, and item category |
 | **Employee view** | Staff profile and personal recent sales |
 
-## Built with
-
-- **Java**
-
 ## Getting started
 
 ### Prerequisites
