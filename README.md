@@ -1,8 +1,6 @@
-# Traveler's Rest | Java Swing POS & Management System
+# Traveler's Rest 
 
-A **medieval tavern-themed point-of-sale and management application** built in **Java Swing**. Traveler's Rest brings food and beverage ordering, room rentals, inventory, staff accounts, and sales reporting into one desktop application.
-
-> **Status:** Coursework / desktop application prototype. Uses local text/CSV-style files; no external database or third-party dependencies.
+A **medieval tavern-themed management application**. Traveler's Rest brings food and beverage ordering, room rentals, inventory, staff accounts, and sales reporting into one desktop application.
 
 ## Features
 
