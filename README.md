@@ -42,43 +42,6 @@ javac -encoding UTF-8 -d out @sources.txt
 java -cp out oopproject.Main
 ```
 
-## Project structure
-
-```text
-travelers-rest-pos/
-├── src/
-│   └── oopproject/
-│       ├── Main.java                 # Application entry point
-│       ├── LogIn.java                # Login + initial admin setup
-│       ├── EmployeeSession.java      # Active user and role
-│       ├── Admin.java                # Admin control panel
-│       ├── AdminData.java            # Shared local data operations
-│       ├── Dashboard.java            # Staff POS dashboard
-│       ├── Menu.java                 # Food, drinks, and rentals
-│       ├── CheckoutArea.java         # Shopping cart
-│       ├── Receipt.java              # Receipt and cash checkout
-│       ├── Inventory.java            # Inventory screen
-│       ├── Room.java                 # Room management screen
-│       ├── Employee.java             # Staff profile and sales
-│       ├── RecentTransaction.java    # Recent sales component
-│       ├── TransactionHistory.java   # History screen
-│       └── TransactionSorting.java   # History filters and sorting
-├── assets/                            # Artwork added locally
-├── data/                              # Generated files (Git ignored)
-├── sources.txt                        # Build input list
-├── run.bat                            # Windows build + run
-├── run.sh                             # macOS/Linux build + run
-└── README.md
-```
-
-## How it works
-
-1. Sign in as an **admin** or **staff** member.
-2. Staff select food, drinks, or available rooms and add them to the checkout cart.
-3. Checkout shows item subtotals, **5% sales tax**, total due, and cash/change.
-4. Completing checkout saves transaction details, updates stock, and clears the cart; room purchases also update occupancy.
-5. Administrators can view sales and oversee inventory, rooms, notifications, and staff accounts.
-
 ## Important notes
 
 - **Images not included:** The supplied source code referenced PNG files from a local Windows `Downloads` folder. The paths have been switched to `assets/`, but the PNG files must be provided separately. Without them, screens may not display the intended backgrounds.
