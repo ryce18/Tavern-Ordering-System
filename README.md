@@ -6,7 +6,7 @@ A **medieval tavern-themed management application**. Traveler's Rest brings food
 
 | Area | Features |
 | --- | --- |
-| **Login and roles** | Admin and staff sign-in; first-run admin account creation; account credentials stored with salted PBKDF2 for newly created users |
+| **Login and roles** | Admin and staff sign-in; account credentials stored in a file|
 | **Admin dashboard** | Sales overview, orders, tenant counts, notifications, product and stock management, room/tenant management, staff accounts, transactions |
 | **Ordering** | Food, beverages, and rentable rooms; item quantities and cart management |
 | **Checkout** | Receipt dialog, **5% sales tax**, cash paid and change, stock checks, order recording |
