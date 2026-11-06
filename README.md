@@ -19,10 +19,7 @@ A **medieval tavern-themed point-of-sale and management application** built in *
 
 ## Built with
 
-- **Java** and **Java Swing** (desktop GUI)
-- **Object-oriented programming** (separate UI, session, and data classes)
-- **Java NIO** local-file storage and `BigDecimal` for monetary values
-- **No Maven, Gradle, or external libraries required**
+- **Java**
 
 ## Getting started
 
@@ -44,20 +41,6 @@ You can also run manually from the **repository root**:
 javac -encoding UTF-8 -d out @sources.txt
 java -cp out oopproject.Main
 ```
-
-### Run on macOS/Linux
-
-From the repository root:
-
-```bash
-sh run.sh
-```
-
-### First-time login
-
-No account credentials are published in this repository. On a fresh installation, click **Log-In!** to open the **Create Admin Account** dialog. Choose an admin username (3–30 letters, digits, or underscores) and a password of at least 8 characters. Then sign in using that account and create staff accounts in the Admin Panel.
-
-> Existing users of the older coursework version can retain their local data separately. The data layer includes compatibility for some old records; make backups before migrating an existing installation.
 
 ## Project structure
 
