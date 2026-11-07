@@ -4,6 +4,17 @@ A **medieval tavern-themed management application**. Traveler's Rest brings food
 
 ## Documentation
 
+### Pictures
+
+#### Log in Frame
+<img width="1713" height="986" alt="Screenshot 2026-11-07 085143" src="https://github.com/user-attachments/assets/f72338e5-0c4f-4dda-b439-5d861c945848" />
+
+#### Staff Dashboard
+<img width="1593" height="935" alt="Screenshot 2026-11-07 085201" src="https://github.com/user-attachments/assets/ab246a51-9e08-4fc7-8d74-cdc612bec592" />
+
+#### Admin Dashboard
+<img width="1541" height="983" alt="Screenshot 2026-11-07 085218" src="https://github.com/user-attachments/assets/e2c1858b-0232-4763-aa89-6622d783303f" />
+
 ### 🛠️ Configuration & Installation
 
 #### Asset Paths Setup
