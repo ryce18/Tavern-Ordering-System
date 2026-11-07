@@ -2,8 +2,6 @@
 
 A **medieval tavern-themed management application**. Traveler's Rest brings food and beverage ordering, room rentals, inventory, staff accounts, and sales reporting into one desktop application.
 
-## Documentation
-
 ## Pictures
 
 ### Log in Frame
