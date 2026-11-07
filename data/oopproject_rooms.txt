@@ -1,0 +1,9 @@
+101,Occupied
+102,Overdue
+103,Overdue
+104,Occupied
+105,Vacant
+106,Overdue
+107,Overdue
+108,Vacant
+109,Vacant

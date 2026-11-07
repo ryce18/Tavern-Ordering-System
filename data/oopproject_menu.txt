@@ -1,0 +1,18 @@
+Kinilaw na axolotl|Food|150
+Sinigang na wombat|Food|250
+Tinolang Dodo bird|Food|180
+Pritong Sabaw|Food|120
+Adobo|Food|140
+Bulalo|Food|350
+Steak|Food|450
+Sisig|Food|120
+Burger|Food|150
+Chicken|Food|180
+Beer|Drink|80
+Wine|Drink|300
+Whisky|Drink|500
+Coke|Drink|40
+Sprite|Drink|40
+Charmander|Food|100|Meat|false
+Charizard|Food|350|Other|false
+Bulbasaur|Drink|29.30|Other|false

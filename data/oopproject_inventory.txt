@@ -1,0 +1,18 @@
+Kinilaw na axolotl,18
+Sinigang na wombat,11
+Tinolang Dodo bird,27
+Pritong Sabaw,7
+Adobo,24
+Bulalo,7
+Steak,5
+Sisig,10
+Burger,20
+Chicken,30
+Beer,50
+Wine,6
+Whisky,8
+Coke,100
+Sprite,99
+Charmander,0
+Charizard,0
+Bulbasaur,2
