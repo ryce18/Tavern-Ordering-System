@@ -5,10 +5,10 @@ A **medieval tavern-themed management application**. Traveler's Rest brings food
 ## Documentation
 
 
-🛠️ Configuration & Installation
+### 🛠️ Configuration & Installation
 
 
-Asset Paths Setup
+#### Asset Paths Setup
 
 To ensure the application background and window icons load correctly on your local machine, you need to configure your local file paths inside the source code.
 1. Download the Assets: Ensure you have downloaded the OOP_Pictures folder.
